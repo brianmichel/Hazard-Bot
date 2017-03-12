@@ -22,6 +22,7 @@
   "license": "ISC",
   "dependencies": {
     "botkit": "^0.5.1",
+    "@slack/client": "^3.8.1",
     "@types/node": "^7.0.8"
   },
   "devDependencies": {

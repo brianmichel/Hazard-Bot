@@ -19,7 +19,7 @@
       "address": "localhost",
       "port": 5858,
       "outFiles": [
-        "${workspaceRoot}/dist/*.js"
+        "${workspaceRoot}/dist/**/*.js"
       ]
     }
   ]
